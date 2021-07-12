@@ -1,16 +1,16 @@
-### Hello my name is Petr. Welcome! :v:
+### Привет меня зовут Пётр. Добро пожаловать в мой репозиторий! :v:
 
-#### About me
+#### Обо мне
 
-- I am 27 year old programmer from Krasnodar
+- Мне 27 лет и я java разработчик из Краснодара
 
-- I learn Java at [Job4j](https://job4j.ru/)
+- Учил Java здесь - [Job4j](https://job4j.ru/)
 
-- My Java expirience is 1 year
+- Мой опыт работы 1 год
 
 ---
 
-### Core technologies:
+### Стек технологий:
 
 ![Java](https://img.shields.io/badge/Java-%3E%3D8-orange)
 ![HTML](https://img.shields.io/badge/HTML-5-brightgreen)
@@ -23,21 +23,21 @@
 
 ---
 
-### Here is my study projects:
-- Forum Web application. The project is hosted on the Heroku cloud PaaS platform
+### Это мои учебные проекты:
+- Веб-приложение форум. Приложение размещено на облачной PaaS-платформе Heroku
 [Heroku](https://spring-boot-forum-12232.herokuapp.com/login)
 [GitHub](https://github.com/PetrBogomolov/job4j_forum)
 
-- Web application for finding and adding vacancies and candidates
+- Веб-приложение для поиска и добавления вакансий и кандидатов
 [Labour exchange](https://github.com/PetrBogomolov/job4j_dreamjob)
 
-- Web application for a car inspector
+- Веб-приложение автонарушители для добавления и редактирования автонарушений
 [Car accident](https://github.com/PetrBogomolov/job4j_car_accident)
 
-- Web application for monitoring work tasks
+- Веб-приложение для контроля рабочих задач
 [Daily planner](https://github.com/PetrBogomolov/job4j_todo)
 
-- The application runs on a schedule and reads all vacancies related to java from job search sites
+- Приложение для поиска java вакансий на сайтах для поиска работы
 [Grabber](https://github.com/PetrBogomolov/job4j_grabber)
 
 ---
